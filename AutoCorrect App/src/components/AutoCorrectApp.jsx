@@ -45,7 +45,7 @@ function simpleAutoCorrect(sentences,i)
 
           setCorrected(simpleAutoCorrect(input,0));
 
- }
+     }
 
 
      return (
